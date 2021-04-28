@@ -1,2 +1,2 @@
 # projectYTjs
-учебный прект интенсива Glo Academy
+учебный прoект интенсива Glo Academy
